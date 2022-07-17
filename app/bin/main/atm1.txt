@@ -1,0 +1,1 @@
+id: 1 cashlist: 1 1 1 1 1 1 1 1 1 1 0 transaction: 10

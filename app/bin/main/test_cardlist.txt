@@ -1,0 +1,9 @@
+cardNum: 11111 pin: 1234 startDate: 1-1-2020 expirationDate: 1-1-2022 balance: 10000.0 state: Free
+cardNum: 22222 pin: 1234 startDate: 1-1-2020 expirationDate: 1-1-2022 balance: 10000.0 state: Confiscate
+cardNum: 33333 pin: 1234 startDate: 1-1-2020 expirationDate: 1-1-2022 balance: 10000.0 state: Stolen
+cardNum: 44444 pin: 1234 startDate: 1-1-2020 expirationDate: 1-1-2022 balance: 10000.0 state: Block
+cardNum: 55555 pin: 1234 startDate: 1-1-2020 expirationDate: 1-1-2022 balance: 10000.0 state: Process
+cardNum: 66666 pin: 1234 startDate: 1-1-2020 expirationDate: 1-1-2021 balance: 10000.0 state: Free
+cardNum: 77777 pin: 1234 startDate: 1-1-2020 expirationDate: 1-1-2023 balance: 1.0 state: Free
+cardNum: 0 pin: 4567 startDate: 1-1-2020 expirationDate: 1-1-2022 balance: 0.0 state: Free
+

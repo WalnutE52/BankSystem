@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="410cc093-bb4a-4c2e-983f-67fc6c764aee" name="Changes" comment="" />
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 5c0ed3917caf32d74bfcbd5aaef47f621a013122
+    <list default="true" id="410cc093-bb4a-4c2e-983f-67fc6c764aee" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+=======
+    <list default="true" id="410cc093-bb4a-4c2e-983f-67fc6c764aee" name="Changes" comment="" />
+>>>>>>> 2aada8c6f9b9b6bc647e4a8a6997fcbe1ab14ac0
+<<<<<<< HEAD
+=======
+=======
+    <list default="true" id="410cc093-bb4a-4c2e-983f-67fc6c764aee" name="Changes" comment="" />
+>>>>>>> f27e28a255dd91718522bc33ec0399fabf1f1489
+>>>>>>> 5c0ed3917caf32d74bfcbd5aaef47f621a013122
+>>>>>>> eb4cb145ae6b618c0080ced4d6f0db78d9b4436b
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1yAj1lY17pnVe5NgNF4SyB1upVR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../SOFT2201/weekly_exercise/E5/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 5c0ed3917caf32d74bfcbd5aaef47f621a013122
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+=======
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+>>>>>>> 2aada8c6f9b9b6bc647e4a8a6997fcbe1ab14ac0
+<<<<<<< HEAD
+=======
+=======
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+>>>>>>> f27e28a255dd91718522bc33ec0399fabf1f1489
+>>>>>>> 5c0ed3917caf32d74bfcbd5aaef47f621a013122
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="W16_R5_Group1_Assignment1" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="410cc093-bb4a-4c2e-983f-67fc6c764aee" name="Changes" comment="" />
+      <created>1631701115192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631701115192</updated>
+      <workItem from="1631701123012" duration="3688000" />
+      <workItem from="1631709134614" duration="4250000" />
+<<<<<<< HEAD
+      <workItem from="1631867183892" duration="927000" />
+      <workItem from="1632127539653" duration="21000" />
+      <workItem from="1632151766727" duration="2868000" />
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      <workItem from="1632155000021" duration="5000" />
+      <workItem from="1632155443454" duration="16000" />
+      <workItem from="1632155594963" duration="5000" />
+=======
+=======
+>>>>>>> dev
+>>>>>>> 5c0ed3917caf32d74bfcbd5aaef47f621a013122
+=======
+      <workItem from="1631867183892" duration="463000" />
+<<<<<<< HEAD
+      <workItem from="1631971487826" duration="81000" />
+=======
+      <workItem from="1632128547398" duration="1814000" />
+      <workItem from="1632131227429" duration="3039000" />
+<<<<<<< HEAD
+      <workItem from="1632137225442" duration="2145000" />
+      <workItem from="1632145674794" duration="266000" />
+>>>>>>> 2aada8c6f9b9b6bc647e4a8a6997fcbe1ab14ac0
+=======
+<<<<<<< HEAD
+      <workItem from="1632137225442" duration="2145000" />
+      <workItem from="1632145674794" duration="266000" />
+>>>>>>> 2aada8c6f9b9b6bc647e4a8a6997fcbe1ab14ac0
+<<<<<<< HEAD
+>>>>>>> dev
+=======
+>>>>>>> dev
+=======
+      <workItem from="1632137225442" duration="677000" />
+>>>>>>> f27e28a255dd91718522bc33ec0399fabf1f1489
+>>>>>>> 5c0ed3917caf32d74bfcbd5aaef47f621a013122
+>>>>>>> eb4cb145ae6b618c0080ced4d6f0db78d9b4436b
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

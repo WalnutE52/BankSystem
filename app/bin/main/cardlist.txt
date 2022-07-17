@@ -1,0 +1,2 @@
+cardNum: 12345 pin: 1234 startDate: 1-1-2020 expirationDate: 1-1-2022 balance: 9900.0 state: Free
+cardNum: 0 pin: 4567 startDate: 1-1-2020 expirationDate: 1-1-2022 balance: 0.0 state: Free

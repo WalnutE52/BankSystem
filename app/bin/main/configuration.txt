@@ -1,0 +1,2 @@
+bank: src/main/resources/cardlist.txt
+atm: src/main/resources/atm1.txt
